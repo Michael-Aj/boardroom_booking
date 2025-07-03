@@ -1,0 +1,405 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\michaela\\source\\repos\\boardroombooking1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7212DAE4-F471-44A5-A8BA-E352FD6DE944}|boardroombooking1.csproj|c:\\users\\michaela\\source\\repos\\boardroombooking1\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7212DAE4-F471-44A5-A8BA-E352FD6DE944}|boardroombooking1.csproj|solutionrelative:views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7212DAE4-F471-44A5-A8BA-E352FD6DE944}|boardroombooking1.csproj|c:\\users\\michaela\\source\\repos\\boardroombooking1\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7212DAE4-F471-44A5-A8BA-E352FD6DE944}|boardroombooking1.csproj|solutionrelative:views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7212DAE4-F471-44A5-A8BA-E352FD6DE944}|boardroombooking1.csproj|c:\\users\\michaela\\source\\repos\\boardroombooking1\\views\\venues\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7212DAE4-F471-44A5-A8BA-E352FD6DE944}|boardroombooking1.csproj|solutionrelative:views\\venues\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7212DAE4-F471-44A5-A8BA-E352FD6DE944}|boardroombooking1.csproj|c:\\users\\michaela\\source\\repos\\boardroombooking1\\views\\venues\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7212DAE4-F471-44A5-A8BA-E352FD6DE944}|boardroombooking1.csproj|solutionrelative:views\\venues\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7212DAE4-F471-44A5-A8BA-E352FD6DE944}|boardroombooking1.csproj|c:\\users\\michaela\\source\\repos\\boardroombooking1\\views\\venues\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7212DAE4-F471-44A5-A8BA-E352FD6DE944}|boardroombooking1.csproj|solutionrelative:views\\venues\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7212DAE4-F471-44A5-A8BA-E352FD6DE944}|boardroombooking1.csproj|c:\\users\\michaela\\source\\repos\\boardroombooking1\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7212DAE4-F471-44A5-A8BA-E352FD6DE944}|boardroombooking1.csproj|solutionrelative:views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7212DAE4-F471-44A5-A8BA-E352FD6DE944}|boardroombooking1.csproj|c:\\users\\michaela\\source\\repos\\boardroombooking1\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7212DAE4-F471-44A5-A8BA-E352FD6DE944}|boardroombooking1.csproj|solutionrelative:views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7212DAE4-F471-44A5-A8BA-E352FD6DE944}|boardroombooking1.csproj|c:\\users\\michaela\\source\\repos\\boardroombooking1\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7212DAE4-F471-44A5-A8BA-E352FD6DE944}|boardroombooking1.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7212DAE4-F471-44A5-A8BA-E352FD6DE944}|boardroombooking1.csproj|c:\\users\\michaela\\source\\repos\\boardroombooking1\\views\\home\\_dashboardcards.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7212DAE4-F471-44A5-A8BA-E352FD6DE944}|boardroombooking1.csproj|solutionrelative:views\\home\\_dashboardcards.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7212DAE4-F471-44A5-A8BA-E352FD6DE944}|boardroombooking1.csproj|c:\\users\\michaela\\source\\repos\\boardroombooking1\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7212DAE4-F471-44A5-A8BA-E352FD6DE944}|boardroombooking1.csproj|solutionrelative:views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7212DAE4-F471-44A5-A8BA-E352FD6DE944}|boardroombooking1.csproj|c:\\users\\michaela\\source\\repos\\boardroombooking1\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7212DAE4-F471-44A5-A8BA-E352FD6DE944}|boardroombooking1.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7212DAE4-F471-44A5-A8BA-E352FD6DE944}|boardroombooking1.csproj|c:\\users\\michaela\\source\\repos\\boardroombooking1\\views\\bookings\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7212DAE4-F471-44A5-A8BA-E352FD6DE944}|boardroombooking1.csproj|solutionrelative:views\\bookings\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7212DAE4-F471-44A5-A8BA-E352FD6DE944}|boardroombooking1.csproj|c:\\users\\michaela\\source\\repos\\boardroombooking1\\views\\bookings\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7212DAE4-F471-44A5-A8BA-E352FD6DE944}|boardroombooking1.csproj|solutionrelative:views\\bookings\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7212DAE4-F471-44A5-A8BA-E352FD6DE944}|boardroombooking1.csproj|c:\\users\\michaela\\source\\repos\\boardroombooking1\\views\\bookings\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7212DAE4-F471-44A5-A8BA-E352FD6DE944}|boardroombooking1.csproj|solutionrelative:views\\bookings\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7212DAE4-F471-44A5-A8BA-E352FD6DE944}|boardroombooking1.csproj|c:\\users\\michaela\\source\\repos\\boardroombooking1\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7212DAE4-F471-44A5-A8BA-E352FD6DE944}|boardroombooking1.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7212DAE4-F471-44A5-A8BA-E352FD6DE944}|boardroombooking1.csproj|c:\\users\\michaela\\source\\repos\\boardroombooking1\\controllers\\venuescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7212DAE4-F471-44A5-A8BA-E352FD6DE944}|boardroombooking1.csproj|solutionrelative:controllers\\venuescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7212DAE4-F471-44A5-A8BA-E352FD6DE944}|boardroombooking1.csproj|c:\\users\\michaela\\source\\repos\\boardroombooking1\\boardroombooking1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{7212DAE4-F471-44A5-A8BA-E352FD6DE944}|boardroombooking1.csproj|solutionrelative:boardroombooking1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7212DAE4-F471-44A5-A8BA-E352FD6DE944}|boardroombooking1.csproj|c:\\users\\michaela\\source\\repos\\boardroombooking1\\controllers\\bookingscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7212DAE4-F471-44A5-A8BA-E352FD6DE944}|boardroombooking1.csproj|solutionrelative:controllers\\bookingscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7212DAE4-F471-44A5-A8BA-E352FD6DE944}|boardroombooking1.csproj|c:\\users\\michaela\\source\\repos\\boardroombooking1\\services\\bookingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7212DAE4-F471-44A5-A8BA-E352FD6DE944}|boardroombooking1.csproj|solutionrelative:services\\bookingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7212DAE4-F471-44A5-A8BA-E352FD6DE944}|boardroombooking1.csproj|c:\\users\\michaela\\source\\repos\\boardroombooking1\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7212DAE4-F471-44A5-A8BA-E352FD6DE944}|boardroombooking1.csproj|solutionrelative:data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7212DAE4-F471-44A5-A8BA-E352FD6DE944}|boardroombooking1.csproj|c:\\users\\michaela\\source\\repos\\boardroombooking1\\models\\booking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7212DAE4-F471-44A5-A8BA-E352FD6DE944}|boardroombooking1.csproj|solutionrelative:models\\booking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7212DAE4-F471-44A5-A8BA-E352FD6DE944}|boardroombooking1.csproj|c:\\users\\michaela\\source\\repos\\boardroombooking1\\models\\venue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7212DAE4-F471-44A5-A8BA-E352FD6DE944}|boardroombooking1.csproj|solutionrelative:models\\venue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7212DAE4-F471-44A5-A8BA-E352FD6DE944}|boardroombooking1.csproj|c:\\users\\michaela\\source\\repos\\boardroombooking1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{7212DAE4-F471-44A5-A8BA-E352FD6DE944}|boardroombooking1.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7212DAE4-F471-44A5-A8BA-E352FD6DE944}|boardroombooking1.csproj|c:\\users\\michaela\\source\\repos\\boardroombooking1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7212DAE4-F471-44A5-A8BA-E352FD6DE944}|boardroombooking1.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "C:\\Users\\michaela\\source\\repos\\boardroombooking1\\Views\\Shared\\Error.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\Error.cshtml",
+              "ToolTip": "C:\\Users\\michaela\\source\\repos\\boardroombooking1\\Views\\Shared\\Error.cshtml",
+              "RelativeToolTip": "Views\\Shared\\Error.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-03T09:27:39.111Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\michaela\\source\\repos\\boardroombooking1\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\michaela\\source\\repos\\boardroombooking1\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAACMAAAAAAAAAAAAcwDcAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-02T12:07:50.974Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\michaela\\source\\repos\\boardroombooking1\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "C:\\Users\\michaela\\source\\repos\\boardroombooking1\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-02T12:10:32.153Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\michaela\\source\\repos\\boardroombooking1\\Views\\Venues\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Venues\\Index.cshtml",
+              "ToolTip": "C:\\Users\\michaela\\source\\repos\\boardroombooking1\\Views\\Venues\\Index.cshtml",
+              "RelativeToolTip": "Views\\Venues\\Index.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAcwBoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-02T12:14:02.727Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\michaela\\source\\repos\\boardroombooking1\\Views\\Venues\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Venues\\Create.cshtml",
+              "ToolTip": "C:\\Users\\michaela\\source\\repos\\boardroombooking1\\Views\\Venues\\Create.cshtml",
+              "RelativeToolTip": "Views\\Venues\\Create.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAcwCMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-02T12:15:45.23Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\michaela\\source\\repos\\boardroombooking1\\Views\\Venues\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Views\\Venues\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\michaela\\source\\repos\\boardroombooking1\\Views\\Venues\\Edit.cshtml",
+              "RelativeToolTip": "Views\\Venues\\Edit.cshtml",
+              "ViewState": "AgIAABkAAAAAAAAAAAAcwC0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-02T12:17:32.236Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\michaela\\source\\repos\\boardroombooking1\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\michaela\\source\\repos\\boardroombooking1\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-02T12:07:04.764Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\michaela\\source\\repos\\boardroombooking1\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\michaela\\source\\repos\\boardroombooking1\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-02T12:07:22.818Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "_DashboardCards.cshtml",
+              "DocumentMoniker": "C:\\Users\\michaela\\source\\repos\\boardroombooking1\\Views\\Home\\_DashboardCards.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\_DashboardCards.cshtml",
+              "ToolTip": "C:\\Users\\michaela\\source\\repos\\boardroombooking1\\Views\\Home\\_DashboardCards.cshtml",
+              "RelativeToolTip": "Views\\Home\\_DashboardCards.cshtml",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAcwBkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-02T12:12:07.047Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\michaela\\source\\repos\\boardroombooking1\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\michaela\\source\\repos\\boardroombooking1\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "Views\\Home\\Privacy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-03T09:18:00.028Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\michaela\\source\\repos\\boardroombooking1\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\michaela\\source\\repos\\boardroombooking1\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-02T12:10:59.931Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\michaela\\source\\repos\\boardroombooking1\\Views\\Bookings\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Bookings\\Create.cshtml",
+              "ToolTip": "C:\\Users\\michaela\\source\\repos\\boardroombooking1\\Views\\Bookings\\Create.cshtml",
+              "RelativeToolTip": "Views\\Bookings\\Create.cshtml",
+              "ViewState": "AgIAABYAAAAAAAAAAAAcwCoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-02T12:22:19.82Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\michaela\\source\\repos\\boardroombooking1\\Views\\Bookings\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Bookings\\Index.cshtml",
+              "ToolTip": "C:\\Users\\michaela\\source\\repos\\boardroombooking1\\Views\\Bookings\\Index.cshtml",
+              "RelativeToolTip": "Views\\Bookings\\Index.cshtml",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAcwBwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-02T12:21:33.785Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\michaela\\source\\repos\\boardroombooking1\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\michaela\\source\\repos\\boardroombooking1\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-02T12:03:43.627Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "VenuesController.cs",
+              "DocumentMoniker": "C:\\Users\\michaela\\source\\repos\\boardroombooking1\\Controllers\\VenuesController.cs",
+              "RelativeDocumentMoniker": "Controllers\\VenuesController.cs",
+              "ToolTip": "C:\\Users\\michaela\\source\\repos\\boardroombooking1\\Controllers\\VenuesController.cs",
+              "RelativeToolTip": "Controllers\\VenuesController.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAcwDYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-02T12:05:13.507Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "BookingsController.cs",
+              "DocumentMoniker": "C:\\Users\\michaela\\source\\repos\\boardroombooking1\\Controllers\\BookingsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\BookingsController.cs",
+              "ToolTip": "C:\\Users\\michaela\\source\\repos\\boardroombooking1\\Controllers\\BookingsController.cs",
+              "RelativeToolTip": "Controllers\\BookingsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-02T12:06:08.743Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\michaela\\source\\repos\\boardroombooking1\\Views\\Bookings\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Views\\Bookings\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\michaela\\source\\repos\\boardroombooking1\\Views\\Bookings\\Delete.cshtml",
+              "RelativeToolTip": "Views\\Bookings\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-02T12:24:10.642Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "boardroombooking1.csproj",
+              "DocumentMoniker": "C:\\Users\\michaela\\source\\repos\\boardroombooking1\\boardroombooking1.csproj",
+              "RelativeDocumentMoniker": "boardroombooking1.csproj",
+              "ToolTip": "C:\\Users\\michaela\\source\\repos\\boardroombooking1\\boardroombooking1.csproj",
+              "RelativeToolTip": "boardroombooking1.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-07-02T11:58:30.881Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "BookingService.cs",
+              "DocumentMoniker": "C:\\Users\\michaela\\source\\repos\\boardroombooking1\\Services\\BookingService.cs",
+              "RelativeDocumentMoniker": "Services\\BookingService.cs",
+              "ToolTip": "C:\\Users\\michaela\\source\\repos\\boardroombooking1\\Services\\BookingService.cs",
+              "RelativeToolTip": "Services\\BookingService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-02T12:02:36.195Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\michaela\\source\\repos\\boardroombooking1\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\michaela\\source\\repos\\boardroombooking1\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-02T11:59:17.75Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Booking.cs",
+              "DocumentMoniker": "C:\\Users\\michaela\\source\\repos\\boardroombooking1\\Models\\Booking.cs",
+              "RelativeDocumentMoniker": "Models\\Booking.cs",
+              "ToolTip": "C:\\Users\\michaela\\source\\repos\\boardroombooking1\\Models\\Booking.cs",
+              "RelativeToolTip": "Models\\Booking.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-02T11:57:34.841Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Venue.cs",
+              "DocumentMoniker": "C:\\Users\\michaela\\source\\repos\\boardroombooking1\\Models\\Venue.cs",
+              "RelativeDocumentMoniker": "Models\\Venue.cs",
+              "ToolTip": "C:\\Users\\michaela\\source\\repos\\boardroombooking1\\Models\\Venue.cs",
+              "RelativeToolTip": "Models\\Venue.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-02T11:56:36.406Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\michaela\\source\\repos\\boardroombooking1\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\michaela\\source\\repos\\boardroombooking1\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-02T11:18:45.584Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\michaela\\source\\repos\\boardroombooking1\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\michaela\\source\\repos\\boardroombooking1\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-02T11:01:35.481Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

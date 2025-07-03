@@ -1,0 +1,45 @@
+﻿@model Venue
+@{
+    ViewData["Title"] = "Edit Venue";
+}
+
+<h2>@ViewData["Title"]</h2>
+
+<form asp-action="Edit" class="card card-body p-4">
+
+    <!-- Hidden keys for EF Core -->
+    <input type="hidden" asp-for="Id" />
+    <input type="hidden" asp-for="RowVersion" />
+
+    <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+
+    <div class="mb-3">
+        <label asp-for="Name" class="form-label"></label>
+        <input asp-for="Name" class="form-control" />
+        <span asp-validation-for="Name" class="text-danger"></span>
+    </div>
+
+    <div class="mb-3">
+        <label asp-for="Capacity" class="form-label"></label>
+        <input asp-for="Capacity" class="form-control" />
+        <span asp-validation-for="Capacity" class="text-danger"></span>
+    </div>
+
+    <div class="mb-3">
+        <label asp-for="Location" class="form-label"></label>
+        <input asp-for="Location" class="form-control" />
+        <span asp-validation-for="Location" class="text-danger"></span>
+    </div>
+
+    <div class="form-check form-switch mb-3">
+        <input asp-for="IsActive" class="form-check-input" />
+        <label asp-for="IsActive" class="form-check-label"></label>
+    </div>
+
+    <button class="btn btn-primary">Save changes</button>
+    <a asp-action="Index" class="btn btn-link">Cancel</a>
+</form>
+
+@section Scripts {
+    <partial name="_ValidationScriptsPartial" />
+}

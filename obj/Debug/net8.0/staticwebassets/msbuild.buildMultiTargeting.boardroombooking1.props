@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\boardroombooking1.props" />
+</Project>

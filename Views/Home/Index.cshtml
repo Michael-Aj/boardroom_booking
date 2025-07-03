@@ -1,0 +1,13 @@
+﻿@{
+    ViewData["Title"] = "Dashboard";
+}
+
+<div class="p-5 mb-4 rounded-4 text-white" style="background:linear-gradient(125deg,#1e3a8a,#16255e);">
+    <h1 class="display-5 fw-semibold">STADIO Centurion Campus Boardrooms</h1>
+    <p class="lead">Manage rooms and reservations effortlessly.</p>
+    <a asp-controller="Bookings" asp-action="Create" class="btn btn-warning btn-lg mt-2">
+        <i class="bi bi-calendar-plus me-1"></i> Book a Venue
+    </a>
+</div>
+
+<partial name="_DashboardCards" />

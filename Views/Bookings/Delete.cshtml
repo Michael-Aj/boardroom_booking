@@ -1,0 +1,19 @@
+﻿@model Booking
+@{
+    ViewData["Title"] = "Delete Booking";
+}
+
+<h2>@ViewData["Title"]</h2>
+
+<div class="alert alert-warning">
+    <p>
+        Delete booking <strong>@Model.Title</strong> in <strong>@Model.Venue?.Name</strong><br />
+        from @Model.StartUtc.ToLocalTime():g to @Model.EndUtc.ToLocalTime():g ?
+    </p>
+</div>
+
+<form asp-action="Delete">
+    <input type="hidden" asp-for="Id" />
+    <button class="btn btn-danger">Yes, delete</button>
+    <a asp-action="Index" class="btn btn-link">Cancel</a>
+</form>
