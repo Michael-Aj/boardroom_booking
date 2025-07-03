@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\michaela\\source\\repos\\boardroombooking1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7212DAE4-F471-44A5-A8BA-E352FD6DE944}|boardroombooking1.csproj|c:\\users\\michaela\\source\\repos\\boardroombooking1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7212DAE4-F471-44A5-A8BA-E352FD6DE944}|boardroombooking1.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{7212DAE4-F471-44A5-A8BA-E352FD6DE944}|boardroombooking1.csproj|c:\\users\\michaela\\source\\repos\\boardroombooking1\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
       "RelativeMoniker": "D:0:0:{7212DAE4-F471-44A5-A8BA-E352FD6DE944}|boardroombooking1.csproj|solutionrelative:dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7212DAE4-F471-44A5-A8BA-E352FD6DE944}|boardroombooking1.csproj|c:\\users\\michaela\\source\\repos\\boardroombooking1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7212DAE4-F471-44A5-A8BA-E352FD6DE944}|boardroombooking1.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{7212DAE4-F471-44A5-A8BA-E352FD6DE944}|boardroombooking1.csproj|c:\\users\\michaela\\source\\repos\\boardroombooking1\\.dockerignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
@@ -114,7 +114,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 8,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
@@ -126,18 +126,17 @@
               "RelativeToolTip": ".dockerignore",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2025-07-03T11:18:16.772Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-03T11:18:16.772Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Dockerfile",
               "DocumentMoniker": "C:\\Users\\michaela\\source\\repos\\boardroombooking1\\Dockerfile",
               "RelativeDocumentMoniker": "Dockerfile",
               "ToolTip": "C:\\Users\\michaela\\source\\repos\\boardroombooking1\\Dockerfile",
               "RelativeToolTip": "Dockerfile",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAAB8AAAAuAAAAAAAAAA==",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAB0AAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
               "WhenOpened": "2025-07-03T11:15:45.159Z",
               "EditorCaption": ""
@@ -200,8 +199,7 @@
               "RelativeToolTip": "Views\\_ViewStart.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-07-02T12:07:22.818Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-02T12:07:22.818Z"
             },
             {
               "$type": "Document",
@@ -217,7 +215,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\michaela\\source\\repos\\boardroombooking1\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
